@@ -1,2 +1,2 @@
 # Python_Coding
-Python Coding - learning code and code submitted in online Challenges.
+Python Coding - learning Python and code submitted in online Challenges.
